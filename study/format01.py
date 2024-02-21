@@ -1,5 +1,5 @@
 # format()함수 : 문자열로 변환
-
+ 
 
 string = "{}{}{}".format(1, 2, 3.1)
 print(type(string)) # 이 두 줄을 c언어처럼 
